@@ -1,1 +1,1 @@
-"# cnn-autoencoder" 
+This repo is a basic introduction to training an autoencoder for nearest-neighbour search. This preliminary repository was used to match users sketch to a set of icons. ANNOY (Approximate nearest neighbours) was used to perform the nearest neighbour vector search to find the closest image related to the sketch.
